@@ -1,0 +1,8 @@
+Origin: Nanny Repository
+Label: kolenkainc
+Codename: focal
+Architectures: amd64
+Components: main
+Description: Repository for Nanny package
+SignWith: D612CF3CDD30BE51
+

@@ -1,0 +1,5 @@
+Component: main
+Origin: Nanny Repository
+Label: kolenkainc
+Architecture: amd64
+Description: Repository for Nanny package
