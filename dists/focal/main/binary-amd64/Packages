@@ -1,14 +1,14 @@
 Package: nanny
-Version: 1.0.0.59
+Version: 1.0.0.61
 Architecture: amd64
 Maintainer: Dmitry Romashov <dmitry@romashov.tech>
 Priority: optional
 Section: base
-Filename: pool/main/n/nanny/nanny_1.0.0.59_amd64.deb
-Size: 22722482
-SHA256: 7af26bd889f67bfc9186bb4a559f279d4f80d37a0942faddeb09d1a6f5ecde6b
-SHA1: 7e41056958bb140419460af0ba1d121d20f6b3a7
-MD5sum: 15da01553a4687264afa17db2635ac6a
+Filename: pool/main/n/nanny/nanny_1.0.0.61_amd64.deb
+Size: 22708974
+SHA256: 77117bbf3f306b2939a573e17b085290e464dbbd78dd3025d28f938531653ee8
+SHA1: 6a9621e9a3248b660dcf8e4d8e8adff743a0e37e
+MD5sum: ea272178f07e82e886ca3198c0b51daf
 Description: Hello World
  When you need some sunshine, just run this
  small program!
