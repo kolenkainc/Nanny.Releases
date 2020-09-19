@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Nanny Repository
 Label: kolenkainc
 Codename: focal
-Date: Sat, 19 Sep 2020 06:55:08 UTC
+Date: Sat, 19 Sep 2020 06:59:03 UTC
 Architectures: amd64
 Components: main
 Description: Repository for Nanny package
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ fe3e879e922846cbf42a96bb5457658a 452 main/binary-amd64/Packages
+ aaee8d2a4ad3c0857f81ab2122b8caed 348 main/binary-amd64/Packages.gz
  423dc21094da95be7bcc0d8387dff3c7 121 main/binary-amd64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ b0a979867e2bd3cd3be2f4908931e2fb810777ee 452 main/binary-amd64/Packages
+ fcde8876bddef3cbca07f8c2d534e9da3de15995 348 main/binary-amd64/Packages.gz
  cfdcff1db44df074ba566aff40634076e997b39a 121 main/binary-amd64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ e9e98b431ad33c1d9df6ac5917e192d899b3d58eef29906613dc479a438f4068 452 main/binary-amd64/Packages
+ 5935c7dc59f37282c20989b3f04eccd0248ca5247855c0372f40b9e48ca506ba 348 main/binary-amd64/Packages.gz
  d0cefe63d53c3b5dec32aa1c6e7f84fd4a682991dd83ebb6350d373d5db92159 121 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEqiG15sUs4vGZC01J1hLPPN0wvlEFAl9lq0wACgkQ1hLPPN0w
-vlEFsRAAqqVP7QXqRzvZLNjp6f+ASKE3XH9a6HjqmG6caqIm2beTe/nDCcXSzLW7
-JAqd4zJyFMoAxoYM1jtb4EwXbraHnkYOrhcBmDO7kuYk+lbxOF60kjHqpCW2nqh+
-FmW0Dj8yCR9qLqRS8p1eQ74ciHjyJm7qDhLCpVxbeL7RFc8J/ytSvo3vBzk9E9t6
-lF4BH/slyH7IMkgrE3oKQpm13vIRSo0ww3VQbQyXKmHhdj55ULxjmzZ1pno7qkSq
-NX3JTDwrufZm43cw4ZUkHqedYbzho40mRYbHgHozpc7UIluI1N9KQwVLVbeNhvSC
-qUkL4bGaevfs7dKy3FpAXyQQbmxGldTRmWqubIyb61iqo+5rC9RaTJywi/+qZgND
-SOjUxN3r6hRwKaPxI5zDbwbW1zV0cPxwUkEWu5ywopu+IjCX05VKN0mk+BSliDPf
-U2oTjx6Q8sUfvSiRQTHhIQuoWF7A3++7zSAM482B3sVnN91Il0fYiRIRKEV2NWvw
-5++5m7l4DGQ/vImk49qeGVP4AG1jhK6mZ7MvuAAm0L4osL5/aaHC0JKihX++OxuZ
-iU4zSLDskuLZLTbRqiFFFnvaO8sKdq0uQZVoPVBjdaMqxwOa9EYy85mCeNquVVyu
-myE4nQItXN9ALfo1QX8YgkmOyOhwL9hPzwFNvdpeGvpkYnj4YMc=
-=9uxQ
+iQIzBAEBCgAdFiEEqiG15sUs4vGZC01J1hLPPN0wvlEFAl9lrDcACgkQ1hLPPN0w
+vlEi1Q/8D8Dksng0ELznIpnKT0LbfpvFkl+bDwF1Le+0rzBJQSciKDco9aA0yJNA
+p0XZ+VG2WRUptQ+JWNQFyk3TAfpIP7l9v5C90WsR2RXBhFL+hovfM8svoqH6FYMo
+O6rtIrKIvPOdM9L2NSBivRCn9r9pBZBrsWNTFxI5ZzO2bk11JlmHXeRCmmvpGx2U
+a1gK+YaAcuR6MzeJ+bZAwlrC3KXdzssZ/a3/yCovzUVQjHo6EgblsdU+OaXFt5o2
+yh173zHHJzBM02a20hZ6beDFb3UyRHHXbEPIVlslCQn7kinmpJUxJwKo92ugwGSJ
+ehL5lT1HLjSVBz8A6TUDfrt2eYXpLmjMiL6mx0L96GwLHw84XSML55mBe/H2EP9b
+hO7Ew8Uy+UDT0vElkcEofe/lKyZS3uGHA00n3Vu2crCNvR6ZxF1gnmbAbYlkt/xz
+nC3rBj7K2HPITBfilNvU0oRNof6wsFff4ApZS0SomfqJZuDCQZgq1hAMVGQipRKJ
+3A8bB2G/XPuN2dlLAO6pqTvW8Oy/uHnQBC65pcx8QalKh2kz7zWS8A1mPM6HQ0jM
+dMM9+c1AKn45pha/aRPGebWSJe8urPLRBSpSyoa3+7pUkf0rtISDuSlevKL+rqy/
+W53BB50zOAwXmya+VtQZPNJH1BVMOrzPi/FUtklMIkCQ8+LBRyo=
+=7vtx
 -----END PGP SIGNATURE-----
