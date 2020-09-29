@@ -1,19 +1,19 @@
 Origin: Nanny Repository
 Label: kolenkainc
 Codename: focal
-Date: Tue, 22 Sep 2020 13:08:17 UTC
+Date: Tue, 29 Sep 2020 09:09:52 UTC
 Architectures: amd64
 Components: main
 Description: Repository for Nanny package
 MD5Sum:
- df20c096ef54d884629b8666c0b2db7e 503 main/binary-amd64/Packages
- 241201309256dab5a94b62af488d0cf2 375 main/binary-amd64/Packages.gz
+ 00088d92f2c1e7cca7aebb4eabbdda0b 503 main/binary-amd64/Packages
+ 2e55c0e0365747a65c6d52ff78994c0d 373 main/binary-amd64/Packages.gz
  423dc21094da95be7bcc0d8387dff3c7 121 main/binary-amd64/Release
 SHA1:
- 793718ed5037b19961ab764d882816ff8eef9874 503 main/binary-amd64/Packages
- 857a4b8b5dcb1041d3894de11f880b7cbc66b85e 375 main/binary-amd64/Packages.gz
+ f52607889f5637d8567454ec69bd5d3b46789178 503 main/binary-amd64/Packages
+ ba0fd6f15b771967dc7e97cc4cda0ef40180c22f 373 main/binary-amd64/Packages.gz
  cfdcff1db44df074ba566aff40634076e997b39a 121 main/binary-amd64/Release
 SHA256:
- fe7650b467e962478f2cea87db4353b6f5c68fb8aaf2de762fa83f195b1b1585 503 main/binary-amd64/Packages
- e5d9d66767a9f8a9162a6fd733d6d35d1bfa5728c2bf57752b28cb46f7d6892c 375 main/binary-amd64/Packages.gz
+ 34b090198261cac202432d5e7ca3186b08f60d33f6904b78cbe58b8ce841901b 503 main/binary-amd64/Packages
+ 2e5e1b237df7fa6086bee67901e6bd55dd9d8e8e575581dd995b1ba6263979d0 373 main/binary-amd64/Packages.gz
  d0cefe63d53c3b5dec32aa1c6e7f84fd4a682991dd83ebb6350d373d5db92159 121 main/binary-amd64/Release
