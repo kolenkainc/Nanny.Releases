@@ -1,14 +1,14 @@
 Package: nanny
-Version: 1.0.0.172
+Version: 1.0.0.217
 Architecture: amd64
 Maintainer: Dmitry Romashov <dmitry@romashov.tech>
 Priority: optional
 Section: base
-Filename: pool/main/n/nanny/nanny_1.0.0.172_amd64.deb
-Size: 24229874
-SHA256: b14785478b6d22d281ade34a33f53097e4f2455bc0266a72fe7965d425cba3e5
-SHA1: 4b0299ef60cea468b16e785f1752b265bc51f577
-MD5sum: 4ccfd0edc4e4f65bf3f999b8b1e13ce2
+Filename: pool/main/n/nanny/nanny_1.0.0.217_amd64.deb
+Size: 24115538
+SHA256: fe22d0ea20e537eb3687e2215027b8375a611d5d9d174c7697f28128971331a8
+SHA1: 8917dc68b4e57e96c5824c7fe9abaefc02573981
+MD5sum: f31739a9308c1f61a5b40247fcc91b7b
 Description: Nanny
   - is a command line interface for creation
   Github Pull Requests for projects with multiple
